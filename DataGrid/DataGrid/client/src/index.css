@@ -136,9 +136,14 @@
   }
 }
 
+
+
 @layer utilities {
   .shadow-material {
     box-shadow: var(--shadow-material);
+  }
+  .text-foreground {
+    color: theme('colors.foreground');
   }
   
   .shadow-material-lg {
