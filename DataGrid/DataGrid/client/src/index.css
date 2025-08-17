@@ -122,6 +122,8 @@
 @layer base {
   * {
     @apply border;
+    @apply bg-white;
+
 
   }
 
