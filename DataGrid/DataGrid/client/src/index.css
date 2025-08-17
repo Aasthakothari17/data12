@@ -130,6 +130,8 @@
   body {
     @apply font-sans antialiased  text-foreground;
     font-family: var(--font-sans);
+    @apply text-gray-800;
+
   }
 }
 
